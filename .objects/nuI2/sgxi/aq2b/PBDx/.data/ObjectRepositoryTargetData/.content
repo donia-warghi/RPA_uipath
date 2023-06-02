@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ln3fgdZLfUeF5urMMLJdNA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://10.5.14.129:9999/test/create" DesignTimeRectangle="662, 308, 35, 20" DesignTimeScaleFactor="1" ElementType="Text" FriendlyName="'Easy'" FullSelectorArgument="&lt;webctrl aaname='Easy' parentid='mat-select-16' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Easy' parentid='mat-select-16' tag='SPAN' type='' class='ng-tns-c30-220 ng-star-inserted' check:innerText='Easy' /&gt;" Guid="c3a0ad1b-00f6-42de-a20b-71eec2c1dbfe" ScopeSelectorArgument="&lt;html app='chrome.exe' title='CompTest' /&gt;" SearchSteps="FuzzySelector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="663602a4d07f86b2084a5d68bf3dc49d.png" xmlns="">0gcVOPZhmcUqQ57s8NWCdug</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

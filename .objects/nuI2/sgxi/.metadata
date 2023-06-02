@@ -1,0 +1,13 @@
+﻿{
+  "Id": "sgxi29Ah_0izWt2EA3o3nQ",
+  "Reference": "QytgYKOs_kWDEWIeHGXeDw/sgxi29Ah_0izWt2EA3o3nQ",
+  "ParentRef": "QytgYKOs_kWDEWIeHGXeDw/nuI2f4so2kes-Ge-CkaDRg",
+  "Name": "1.0.0",
+  "Type": "AppVersion",
+  "Created": "2023-05-16T10:09:37.769534Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-16T10:09:37.769534Z"
+}

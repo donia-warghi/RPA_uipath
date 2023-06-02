@@ -1,0 +1,14 @@
+﻿{
+  "Id": "PBDxKKFdt06zUVi8mG5_Cg",
+  "Reference": "QytgYKOs_kWDEWIeHGXeDw/PBDxKKFdt06zUVi8mG5_Cg",
+  "ParentRef": "QytgYKOs_kWDEWIeHGXeDw/aq2b8ATb1EmTKBQPQf2-Fw",
+  "Name": "Easy",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2023-05-16T12:35:04.7922912Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-16T12:35:04.7922912Z"
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ixL68r3co0-t6xSTGqe0PQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://10.5.14.129:9999/question/create" DesignTimeRectangle="914, 381, 220, 18" DesignTimeScaleFactor="1" FriendlyName="'DIV'" FullSelectorArgument="&lt;webctrl class='mat-select-value' parentid='mat-select-0' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl class='mat-select-value' parentid='mat-select-0' tag='DIV' type='' aaname='' /&gt;" Guid="67a4ba85-29c1-4cbe-b766-81deeea569ca" ScopeSelectorArgument="&lt;html app='chrome.exe' title='CompTest' /&gt;" SearchSteps="FuzzySelector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1a443f75321472f5fe7dcdbdc04b1498.png" xmlns="">0O2wEJjnWpkioRoN2FUcJ7A</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

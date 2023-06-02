@@ -1,0 +1,92 @@
+{
+  "name": "TestAutomationProject3",
+  "description": "Blank Process",
+  "main": "Login.xaml",
+  "dependencies": {
+    "UiPath.Excel.Activities": "[2.20.1]",
+    "UiPath.Mail.Activities": "[1.18.2]",
+    "UiPath.System.Activities": "[23.4.2]",
+    "UiPath.Testing.Activities": "[23.4.0]",
+    "UiPath.UIAutomation.Activities": "[23.4.4]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "23.4.1.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "2d4c104a-8c19-4e95-9e4b-0ac1da10cf8b",
+        "testCaseType": "TestCase",
+        "fileName": "Testcase\\Candidate_test.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "bc584be8-f2e4-48e8-afa3-4c59b0cbd9dd",
+        "testCaseType": "TestCase",
+        "fileName": "Testcase\\Delete_candidates_Test.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "a5ac47cb-dfed-40cd-8a96-5e440ffc88a3",
+        "testCaseType": "TestCase",
+        "fileName": "Testcase\\Delete_Tests_Test.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "2d7554b2-ca9f-4179-88b6-87d55ae52c0a",
+        "testCaseType": "TestCase",
+        "fileName": "Testcase\\Schedule_Test.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "8fbfff33-a7ba-41e5-83d0-81405e19878a",
+        "testCaseType": "TestCase",
+        "fileName": "Testcase\\Tests_test.xaml"
+      }
+    ],
+    "modernBehavior": true
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Login.xaml",
+      "uniqueId": "56dc73c8-f2fa-41ba-ba22-24354ab486cc",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}

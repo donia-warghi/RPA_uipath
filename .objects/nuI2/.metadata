@@ -1,0 +1,12 @@
+﻿{
+  "Id": "nuI2f4so2kes-Ge-CkaDRg",
+  "Reference": "QytgYKOs_kWDEWIeHGXeDw/nuI2f4so2kes-Ge-CkaDRg",
+  "Name": "Chrome: CompTest(2)",
+  "Type": "App",
+  "Created": "2023-05-16T10:09:37.7373472Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-16T10:09:37.7373472Z"
+}

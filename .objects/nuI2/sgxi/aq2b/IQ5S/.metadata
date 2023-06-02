@@ -1,0 +1,14 @@
+﻿{
+  "Id": "IQ5SDh9mUU6KuCXRXEv7-g",
+  "Reference": "QytgYKOs_kWDEWIeHGXeDw/IQ5SDh9mUU6KuCXRXEv7-g",
+  "ParentRef": "QytgYKOs_kWDEWIeHGXeDw/aq2b8ATb1EmTKBQPQf2-Fw",
+  "Name": "ballotTestskeyboard_arr…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2023-05-16T11:19:14.5812489Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-16T11:19:14.5812489Z"
+}
